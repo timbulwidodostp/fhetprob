@@ -1,5 +1,7 @@
-d 'DEA': Data envelopment analysis
+d 'fhetprob': A fast QMLE Stata routine for fractional probit models with multiplicative heteroskedasticity (heteroscedastic) Use fhetprob With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f fhetprob.ado
+f fhetprob.sthlp
+f fhetprob_p.ado
+f fhetprob_postestimation.sthlp
+f fhetprobit_d2.ado

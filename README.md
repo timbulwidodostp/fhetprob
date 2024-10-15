@@ -1,6 +1,8 @@
 # fhetprob
 A fast QMLE Stata routine for fractional probit models with multiplicative heteroskedasticity (heteroscedastic) Use fhetprob With STATA 18
 
+https://www.youtube.com/watch?v=zQTZBuW5W5c
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
